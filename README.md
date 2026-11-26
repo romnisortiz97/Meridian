@@ -42,11 +42,11 @@
 
 ## 3. Workflow Map (today)
 
-*Show how the work happens now, step by step. Mark 🔴 slow · 🔁 repetitive · ❌ error-prone · 🕳️ falls through the cracks. Use a Mermaid diagram or a photo.*
+* 🔴 slow · 🔁 repetitive · ❌ error-prone · 🕳️ falls through the cracks.*
 
 ```mermaid
 flowchart TD
-  A["Sign in to portal 🔁"] --> B["Sign in to 2FA 🔁"] --> C["Make a mental note of deadline ❌"]
+  A["Sign in to portal 🔁"] --> B["Sign in to 2FA 🔁"] --> C["Make a mental note of deadline 🕳️ ❌"]
 ```
 
 ---
