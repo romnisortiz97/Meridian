@@ -52,13 +52,13 @@ flowchart TD
 
 ## 4. Problem Statement
 
-> **When** [a specific moment that keeps happening],
-> **[partner] struggles to** [what goes wrong],
-> **which costs them** [time / money / stress, with numbers from discovery].
-> **This happens because** [root cause].
-> **Right now they** [current workaround], **but** [why it falls short].
+> **When** [He receives a new assignment or task from his classes],
+> **[the Student] struggles to** [manage his deadlines properly or stresses over them too much],
+> **which costs them** [time and stress, he usually spends "most of his day" working on an assignment to get it as close to done on the day its assigned in order to meet the deadline].
+> **This happens because** [He overstresses because keeping track of multiple deadlines].
+> **Right now they** [write it down on his phone's reminders], **but** [he cant check them again and reread them].
 
-**They'll know this is solved when:** [something your partner could observe changing]
+**They'll know this is solved when:** [They have something to remind them and can reread.]
 
 *Check: written about your partner, not you. Facts come from your discovery notes. No solution words (app, website, platform, dashboard, AI, automate…).*
 
