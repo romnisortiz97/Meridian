@@ -6,7 +6,7 @@
   Privacy: no customer names, contact info, prices/revenue, or anything your partner asked to keep private.
 -->
 
-# [Product Name]
+# [Meridian]
 
 > Assignment/Task Reminder for Students
 
