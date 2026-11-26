@@ -59,7 +59,7 @@ flowchart TD
 > **This happens because** [He overstresses because keeping track of multiple deadlines].
 > **Right now they** [write it down on his phone's reminders], **but** [he cant check them again and reread them].
 
-**They'll know this is solved when:** [They have something to remind them and can reread.]
+**They'll know this is solved when:** [They have something to remind them of deadlines and can reread.]
 
 *Check: written about your partner, not you. Facts come from your discovery notes. No solution words (app, website, platform, dashboard, AI, automate…).*
 
