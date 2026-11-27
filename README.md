@@ -11,7 +11,7 @@
 > Assignment/Task checker and Reminder for Students
 
 **Partner:** [A fellow Student] · **Partner's role:** [Student]
-**Team:** [Romnis Ortiz] · **Course:** CMP 464/343 Product 2 · **Last updated:** [11/25/26]
+**Team:** [Romnis Ortiz] · **Course:** CMP 464/343 Product 2 · **Last updated:** [11/27/26]
 **Live demo:** [deployment URL, video link, or "see Demo section"]
 
 ---
