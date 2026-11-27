@@ -82,7 +82,7 @@ flowchart TD
 |---|---|---|
 | assignment tracking (ability to input assignment and its details | Keeps all assignments organized in one place instead of relying on mental notes or repeatedly checking the school portal. | MVP |
 | Display upcoming, completed, and overdue assignments in an organized, easily accessible view | Allows the student to review their assignments and deadlines whenever they need to. | MVP |
-|Automated Email Reminders: Sends email notifications before an assignment's deadline, even when Meridian is closed. | Helps prevent forgotten deadlines and reduces the need to constantly check the school portal | MVP |
+| Email Reminders: Sends email notifications before an assignment's deadline, even when Meridian is closed. | Helps prevent forgotten deadlines and reduces the need to constantly check the school portal | MVP |
 
 **MVP (2–3 features):**
 
@@ -95,6 +95,8 @@ flowchart TD
 **Later:**
 
 -Customizable reminder schedules
+
+-automatic email reminders
 
 -notify if an assignment is past due
 
