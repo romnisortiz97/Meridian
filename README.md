@@ -180,7 +180,7 @@ https://meridian-blue-one.vercel.app/
 
 | Teammate | What I did (discovery, features, files) |
 |---|---|
-| | |
+| N/A | N/A |
 
 ---
 
