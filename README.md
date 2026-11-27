@@ -159,7 +159,7 @@ You have to sign into the school portal and do 2FA every time you want to check 
 
 *Screenshots, a GIF, a video (under 2 min), or a live link. For automations, show the whole flow from trigger to result.*
 
-![Screenshot](screenshot.png)
+https://meridian-blue-one.vercel.app/
 
 ---
 
