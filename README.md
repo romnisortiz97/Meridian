@@ -138,17 +138,18 @@ flowchart LR
 
 ## 8. Solution Brief (for your partner)
 
-*One page, written in **plain language**: no tech jargon. You should be able to hand this to your partner.*
 
-**The problem we heard:** [1–2 sentences, in their words]
+**The problem we heard:** [“I don’t get email reminders like you do, this sucks.”
 
-**What we're building:** [1–2 sentences]
+You have to sign into the school portal and do 2FA every time you want to check what’s due, then you just make a mental note. It’s repetitive and easy for things to fall through the cracks.]
 
-**How it will help:** [time saved, money saved, fewer mistakes]
+**What we're building:** [A simple web app called Meridian where you can quickly add your assignments and see them all in one place. It will also email you a reminder before something is due.]
 
-**What you'll need to do:** [e.g. "fill out a form when a customer books" / "nothing, it runs automatically"]
+**How it will help:** [You won’t have to log into the portal just to remember what’s due. You can check everything in one spot and get an email so you don’t forget. This should save you time and reduce the stress of tracking deadlines.]
 
-**What it won't do (yet):** [scope limits]
+**What you'll need to do:** [Just add the assignment name, course, and due date when you get it. That’s it. The reminders happen automatically.]
+
+**What it won't do:** [It won’t replace the school portal or submit your work. It’s only for tracking and reminding you about deadlines.]
 
 ---
 
