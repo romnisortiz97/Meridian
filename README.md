@@ -96,6 +96,8 @@ flowchart TD
 
 -Customizable reminder schedules
 
+-notify if an assignment is past due
+
 
 **Not doing:**
 
