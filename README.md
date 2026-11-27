@@ -114,11 +114,11 @@ flowchart TD
 ### Stack
 | Piece | Choice | Why |
 |---|---|---|
-| Front end / interface | | |
-| Back end / automation logic | | |
-| Data | | |
-| Outside services / APIs | | |
-| Hosting / where it runs | | |
+| Front end / interface |Next.js + React | works on phone and computer |
+| Back end / automation logic | Next.js API routes | Can send emails and handle logic in the same project |
+| Data | SQLite (via Turso) | Stores assignments online so reminders work even when the app is closed |
+| Outside services / APIs | Resend | Sends the email reminders |
+| Hosting / where it runs | Vercel | Deploys the site and runs the API routes |
 
 ### Architecture
 *Show how a trigger or request flows through the system.*
@@ -128,6 +128,22 @@ flowchart LR
   T["Trigger / user"] --> L["Logic: ..."] --> D[("Data: ...")]
   L --> A["Action: ..."]
 ```
+
+```mermaid
+flowchart LR
+  U[Student] --> FE[Next.js Front end]
+  FE --> API[Next.js API routes]
+  API --> DB[(Turso / SQLite)]
+  API --> Email[Resend]
+  Email --> U
+```
+
+flowchart LR
+  U[Student] --> FE[Next.js Front end]
+  FE --> API[Next.js API routes]
+  API --> DB[(Turso / SQLite)]
+  API --> Email[Resend]
+  Email --> U
 
 ---
 
