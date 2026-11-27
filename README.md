@@ -111,7 +111,7 @@ flowchart TD
 
 ### Surface
 - **Surface:** [Web]
-- **Why:** *Where and how will your partner (or their customers) use it?*
+- **Why:** easily viewable on Desktop browser and/or phone browser
 
 ### Stack
 | Piece | Choice | Why |
