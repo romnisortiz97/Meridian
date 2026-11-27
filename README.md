@@ -72,7 +72,7 @@ flowchart TD
 |Checking Deadlines | logging into school portal | quickly checking deadlines | logging in to check is repetitive |
 |remembering deadlines/assignments | making mental notes | receive a reminder of an assignment/deadline| Mental notes can be forgotten |
 
-**Solution type:** [use an existing tool better / automation / custom app / a mix]. *Why does this fit your partner?*
+**Solution type:** [A webapp that lets you check inputted assignment deadlines and receive emails as reminders for deadlines, to reduce stress and mental load]. 
 
 ---
 
