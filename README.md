@@ -8,7 +8,7 @@
 
 # [Meridian]
 
-> Assignment/Task Reminder for Students
+> Assignment/Task checker and Reminder for Students
 
 **Partner:** [A fellow Student] · **Partner's role:** [Student]
 **Team:** [Romnis Ortiz] · **Course:** CMP 464/343 Product 2 · **Last updated:** [11/25/26]
@@ -25,7 +25,7 @@
 
 ## 2. Discovery Log
 
-*One entry per conversation. Use the notes template from the Discovery Guide.*
+
 
 ### Conversation #1 · [11/22/26] · [in person] · with [Student]
 - **Their goals:** Be aware of assignment due dates.
@@ -61,7 +61,7 @@ flowchart TD
 
 **They'll know this is solved when:** [They have something to remind them of deadlines and can reread.]
 
-*Check: written about your partner, not you. Facts come from your discovery notes. No solution words (app, website, platform, dashboard, AI, automate…).*
+
 
 ---
 
@@ -80,18 +80,26 @@ flowchart TD
 
 | Feature (what it does) | Benefit for the partner | MVP or Later? |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| assignment tracking (ability to input assignment and its details | Keeps all assignments organized in one place instead of relying on mental notes or repeatedly checking the school portal. | MVP |
+| Display upcoming, completed, and overdue assignments in an organized, easily accessible view | Allows the student to review their assignments and deadlines whenever they need to. | MVP |
+|Automated Email Reminders: Sends email notifications before an assignment's deadline, even when Meridian is closed. | Helps prevent forgotten deadlines and reduces the need to constantly check the school portal | MVP |
 
 **MVP (2–3 features):**
--
+
+-Assignment tracking
+
+-Assignment display
+
+-Email reminders
 
 **Later:**
--
+
+-Customizable reminder schedules
+
 
 **Not doing:**
--
+
+-Replacing existing school portals
 
 ---
 
