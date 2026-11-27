@@ -121,13 +121,7 @@ flowchart TD
 | Hosting / where it runs | Vercel | Deploys the site and runs the API routes |
 
 ### Architecture
-*Show how a trigger or request flows through the system.*
 
-```mermaid
-flowchart LR
-  T["Trigger / user"] --> L["Logic: ..."] --> D[("Data: ...")]
-  L --> A["Action: ..."]
-```
 
 ```mermaid
 flowchart LR
@@ -138,12 +132,7 @@ flowchart LR
   Email --> U
 ```
 
-flowchart LR
-  U[Student] --> FE[Next.js Front end]
-  FE --> API[Next.js API routes]
-  API --> DB[(Turso / SQLite)]
-  API --> Email[Resend]
-  Email --> U
+
 
 ---
 
