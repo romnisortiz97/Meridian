@@ -12,7 +12,7 @@ export async function POST(request: Request) {
       to,
       subject: `Reminder: ${title}`,
       html: `
-        <p>You have an assignment coming up:</p>
+        <p>You have an upcoming deadline:</p>
         <p><strong>${title}</strong></p>
         <p>Course: ${course}</p>
         <p>Due: ${new Date(due).toLocaleString()}</p>
