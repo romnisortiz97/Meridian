@@ -110,7 +110,7 @@ flowchart TD
 ## 7. Tech Stack & Architecture
 
 ### Surface
-- **Surface:** [Web / Mobile / Desktop / CLI / Chat / Automation (+ simple interface)]
+- **Surface:** [Web]
 - **Why:** *Where and how will your partner (or their customers) use it?*
 
 ### Stack
