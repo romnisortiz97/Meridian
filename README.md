@@ -81,7 +81,7 @@ flowchart TD
 | Feature (what it does) | Benefit for the partner | MVP or Later? |
 |---|---|---|
 | assignment tracking (ability to input assignment and its details | Keeps all assignments organized in one place instead of relying on mental notes or repeatedly checking the school portal. | MVP |
-| Display upcoming, completed, and overdue assignments in an organized, easily accessible view | Allows the student to review their assignments and deadlines whenever they need to. | MVP |
+| Display upcoming and overdue assignments in an organized, easily accessible view | Allows the student to review their assignments and deadlines whenever they need to. | MVP |
 | Email Reminders: Sends email notifications about an assignment's deadline | Helps prevent forgotten deadlines and reduces the need to constantly check the school portal | MVP |
 
 **MVP (2–3 features):**
